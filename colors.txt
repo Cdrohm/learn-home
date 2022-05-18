@@ -1,0 +1,4 @@
+colors:
+1er: D73950
+2nd: 87B6A7
+3rd: F7D08A
